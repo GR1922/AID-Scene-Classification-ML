@@ -19,7 +19,7 @@ Il progetto mira a classificare le immagini del dataset AID nelle 30 classi disp
 - [Struttura del codice](#struttura-del-codice)
 - [Riproducibilità](#riproducibilità)
 - [Risultati](#risultati)
-- [Nota tecnica: bug di shuffle durante feature extraction](#Nota-tecnica:-bug-di-shuffle-durante-feature-extraction)
+- [Nota tecnica: bug di shuffle durante feature extraction](#nota-tecnica-bug-di-shuffle-durante-feature-extraction)
 - [Licenza](#licenza)
   
 ---
